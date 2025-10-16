@@ -1,0 +1,4 @@
+! Title: Adya's AdBlock List
+! Version: 2025.10.16
+
+chess.com##div.medium-rectangle-ad-component:nth-of-type(1)

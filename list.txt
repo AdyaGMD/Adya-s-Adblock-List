@@ -2,6 +2,7 @@
 ! Version: 2025.10.16
 
 chess.com##div.medium-rectangle-ad-component:nth-of-type(1)
+chess.com##.medium-rectangle-ad-component.sidebar-bottom-ad > .ad-upgrade-link-component
 x.com##.css-175oi2r.r-1habvwh.r-1ssbvtb.r-1mmae3n.r-3pj75a
 x.com##.css-175oi2r.r-1kqtdi0.r-1q9bdsx.r-rs99b7
 x.com##.css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-1ceczpf.r-lp5zef.r-3o4zer.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21
@@ -10,3 +11,4 @@ www.jumia.ma##.banner-pop._pp
 www.jumia.ma##a.-fw.-fh > .-fw.-fh
 www.jumia.ma##a.-fw.-fh
 www.jumia.ma##.banner-pop._def
+tetr.io###ad_left-rail-1_0 > div > a > [src*="//r2.rev.iq/tetr.io/tetrio-house-300x250.webp"]

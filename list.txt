@@ -7,6 +7,9 @@ x.com##.css-175oi2r.r-1habvwh.r-1ssbvtb.r-1mmae3n.r-3pj75a
 x.com##.css-175oi2r.r-1kqtdi0.r-1q9bdsx.r-rs99b7
 x.com##.css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-1ceczpf.r-lp5zef.r-3o4zer.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21
 x.com##.css-175oi2r.r-1q9bdsx.r-18u37iz.r-1h0z5md.r-1xpp3t0.r-1udh08x
+x.com##div.css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x:nth-of-type(4)
+x.com##.css-175oi2r.r-vacyoi.r-ttdzmv > div.css-175oi2r:nth-of-type(3) > .css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x
+x.com##.css-175oi2r.r-1habvwh.r-eqz5dr.r-uaa2di.r-w7s2jr.r-u9wvl5.r-bnwqim
 www.jumia.ma##.banner-pop._pp
 www.jumia.ma##a.-fw.-fh > .-fw.-fh
 www.jumia.ma##a.-fw.-fh

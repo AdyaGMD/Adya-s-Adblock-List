@@ -15,3 +15,4 @@ www.jumia.ma##a.-fw.-fh > .-fw.-fh
 www.jumia.ma##a.-fw.-fh
 www.jumia.ma##.banner-pop._def
 tetr.io###ad_left-rail-1_0 > div > a > [src*="//r2.rev.iq/tetr.io/tetrio-house-300x250.webp"]
+x.com#.css-175oi2r.r-dnmrzs.r-nsbfu8

@@ -14,5 +14,7 @@ www.jumia.ma##.banner-pop._pp
 www.jumia.ma##a.-fw.-fh > .-fw.-fh
 www.jumia.ma##a.-fw.-fh
 www.jumia.ma##.banner-pop._def
-tetr.io###ad_left-rail-1_0 > div > a > [src*="//r2.rev.iq/tetr.io/tetrio-house-300x250.webp"]
-x.com#.css-175oi2r.r-dnmrzs.r-nsbfu8
+tetr.io##ad_left-rail-1_0 > div > a > [src*="//r2.rev.iq/tetr.io/tetrio-house-300x250.webp"]
+x.com##.css-175oi2r.r-dnmrzs.r-nsbfu8
+chessigma.com##.w-full.overflow-hidden.bg-neutral-900\/95.backdrop-blur-md.z-40.transition-all.duration-300.border-white\/5.fixed.bottom-0.left-0.md\:left-48.right-0.border-t.py-4
+chessigma.com##.w-full.overflow-hidden.bg-neutral-900\/95.backdrop-blur-md.z-40.transition-all.duration-300.border-white\/5.fixed.top-14.md\:top-0.left-0.md\:left-48.right-0.border-b.py-3\.5

@@ -11,6 +11,10 @@ x.com##div.css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0
 x.com##.css-175oi2r.r-vacyoi.r-ttdzmv > div.css-175oi2r:nth-of-type(3) > .css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x
 x.com##.css-175oi2r.r-1habvwh.r-eqz5dr.r-uaa2di.r-w7s2jr.r-u9wvl5.r-bnwqim
 x.com##.css-175oi2r.r-1q4cwaf.r-16y2uox > div.css-175oi2r.r-1p0dtai.r-1d2f490.r-1udh08x.r-u8s1d.r-zchlnj.r-ipm5af:nth-of-type(1) > .css-175oi2r.r-1mlwlqe.r-1udh08x.r-417010.r-aqfbo4.r-n1ft60.r-gf0ln.r-agouwx.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af > .css-9pa8cd
+x.com##.css-175oi2r.r-1q4cwaf.r-16y2uox > div.css-175oi2r.r-1p0dtai.r-1d2f490.r-1udh08x.r-u8s1d.r-zchlnj.r-ipm5af:nth-of-type(1) > .css-175oi2r.r-1mlwlqe.r-1udh08x.r-417010.r-aqfbo4.r-n1ft60.r-gf0ln.r-agouwx.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af > .css-175oi2r.r-1niwhzg.r-vvn4in.r-u6sd8q.r-1p0dtai.r-1pi2tsx.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af.r-13qz1uu.r-1wyyakw.r-4gszlv
+x.com##.css-175oi2r.r-1q4cwaf.r-16y2uox > div.css-175oi2r.r-1p0dtai.r-1d2f490.r-1udh08x.r-u8s1d.r-zchlnj.r-ipm5af:nth-of-type(1) > .css-175oi2r.r-1mlwlqe.r-1udh08x.r-417010.r-aqfbo4.r-n1ft60.r-gf0ln.r-agouwx.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
+x.com##.css-175oi2r.r-1q4cwaf.r-16y2uox > div.css-175oi2r.r-1p0dtai.r-1d2f490.r-1udh08x.r-u8s1d.r-zchlnj.r-ipm5af:nth-of-type(1)
+x.com##.css-175oi2r.r-1q4cwaf.r-16y2uox
 www.jumia.ma##.banner-pop._pp
 www.jumia.ma##a.-fw.-fh > .-fw.-fh
 www.jumia.ma##a.-fw.-fh

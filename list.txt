@@ -15,6 +15,9 @@ x.com##.css-175oi2r.r-1q4cwaf.r-16y2uox > div.css-175oi2r.r-1p0dtai.r-1d2f490.r-
 x.com##.css-175oi2r.r-1q4cwaf.r-16y2uox > div.css-175oi2r.r-1p0dtai.r-1d2f490.r-1udh08x.r-u8s1d.r-zchlnj.r-ipm5af:nth-of-type(1) > .css-175oi2r.r-1mlwlqe.r-1udh08x.r-417010.r-aqfbo4.r-n1ft60.r-gf0ln.r-agouwx.r-1p0dtai.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af
 x.com##.css-175oi2r.r-1q4cwaf.r-16y2uox > div.css-175oi2r.r-1p0dtai.r-1d2f490.r-1udh08x.r-u8s1d.r-zchlnj.r-ipm5af:nth-of-type(1)
 x.com##.css-175oi2r.r-1q4cwaf.r-16y2uox
+x.com##.css-175oi2r.r-1ny4l3l.r-18u37iz.r-1pi2tsx.r-1777fci.r-1xcajam.r-ipm5af.r-g6jmlv.r-1kihuf0.r-xr3zp9.r-1awozwy.r-1pjcn9w
+x.com##.css-175oi2r.r-1p0dtai.r-1d2f490.r-1xcajam.r-zchlnj.r-ipm5af.r-11z020y
+x.com##.css-175oi2r.r-kemksi.r-16y2uox.r-1dqxon3.r-16wqof
 www.jumia.ma##.banner-pop._pp
 www.jumia.ma##a.-fw.-fh > .-fw.-fh
 www.jumia.ma##a.-fw.-fh

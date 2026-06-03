@@ -27,3 +27,7 @@ x.com##.css-175oi2r.r-dnmrzs.r-nsbfu8
 chessigma.com##.w-full.overflow-hidden.bg-neutral-900\/95.backdrop-blur-md.z-40.transition-all.duration-300.border-white\/5.fixed.bottom-0.left-0.md\:left-48.right-0.border-t.py-4
 chessigma.com##.w-full.overflow-hidden.bg-neutral-900\/95.backdrop-blur-md.z-40.transition-all.duration-300.border-white\/5.fixed.top-14.md\:top-0.left-0.md\:left-48.right-0.border-b.py-3\.5
 chess.com##.medium-rectangle-ad-component.sidebar-bottom-ad > .cc-button-component.cc-button-monetization.cc-button-small.cc-bg-monetization.cc-button-full.ad-upgrade-link-monetization-button
+! May 24, 2026 https://leetcode.com
+leetcode.com##.last\:mt-\[48px\].data-\[state\=open\]\:slide-in-from-top-24.data-\[state\=closed\]\:slide-out-to-top-24.data-\[state\=closed\]\:fade-out-80.data-\[swipe\=end\]\:animate-out.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.data-\[swipe\=move\]\:transition-none.data-\[swipe\=move\]\:translate-y-\[var\(--radix-toast-swipe-move-y\)\].data-\[swipe\=end\]\:translate-y-\[var\(--radix-toast-swipe-end-y\)\].data-\[swipe\=cancel\]\:translate-y-0.transition.shadow-md.px-4.py-1\.5.border-sd-border.border.rounded-sd-md.overflow-hidden.text-sd-foreground.bg-sd-popover.gap-2.justify-between.items-center.flex.relative.pointer-events-auto.max-w-full.sd-sm\:max-w-\[600px\].group
+leetcode.com##.dark\:hover\:text-brand-orange.hover\:text-brand-orange.dark\:text-brand-orange.text-brand-orange.text-caption.gap-0\.5.items-center.flex.truncate.no-underline
+www.snapchat.com##.wHvEy

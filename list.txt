@@ -32,3 +32,4 @@ leetcode.com##.dark\:hover\:text-brand-orange.hover\:text-brand-orange.dark\:tex
 www.snapchat.com##.wHvEy
 chatgpt.com##.before\:starting\:opacity-0.dark\:before\:bg-black\/50.not-motion-reduce\:before\:duration-250.not-motion-reduce\:before\:transition.before\:backdrop-blur-\[1px\].before\:bg-gray-200\/50.before\:inset-0.before\:absolute.before\:starting\:backdrop-blur-0.z-50.inset-0.fixed
 chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-bg-primary.border-token-border-default.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
+chatgpt.com##.text-center.pb-1.px-4.gap-3.items-center.flex-col.flex
